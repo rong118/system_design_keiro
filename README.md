@@ -2,7 +2,7 @@
 
 Explore System Design Basics and master the foundational principles of system design through core topics.
 
-- [Distributed Systems]()
+- [Distributed Systems](./Distributed_system.md)
 - [Load Banlancing]()
 - [Caching]()
 - [Data Partitioning]()
