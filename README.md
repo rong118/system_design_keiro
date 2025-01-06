@@ -4,8 +4,8 @@ Explore System Design Basics and master the foundational principles of system de
 
 - [Distributed Systems](./Distributed_system.md)
 - [Load Banlancing](./Load_Balancing.md)
+- [Proxies](./Proxies.md)
 - [Caching]()
 - [Data Partitioning]()
 - [Data Replication]()
-- [Proxies]()
 - [SQL vs NoSQL]()
