@@ -8,4 +8,5 @@ Explore System Design Basics and master the foundational principles of system de
 - [SQL vs NoSQL](./SQL_vs_NoSQL.md)
 - [Caching](./Caching.md)
 - [Data Partitioning](./Data_Partitioning.md)
+- [Daata Replication](./Data_Replication.md)]
 - [CAP Theorem](./CAP.md)
