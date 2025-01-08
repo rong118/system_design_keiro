@@ -7,5 +7,5 @@ Explore System Design Basics and master the foundational principles of system de
 - [Proxies](./Proxies.md)
 - [SQL vs NoSQL](./SQL_vs_NoSQL.md)
 - [Caching](./Caching.md)
-- [Data Partitioning]()
-- [Data Replication]()
+- [Data Partitioning](./Data_Partitioning.md)
+- [CAP Theorem](./CAP.md)
